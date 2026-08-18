@@ -1,0 +1,24 @@
+ecommerce-qa-automation/
+│
+├── pages/
+│   ├── __init__.py
+│   ├── login_page.py
+│   └── products_page.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_login.py
+│   └── test_cart.py
+│
+├── data/
+│   └── test_data.py
+│
+├── reports/
+│
+├── screenshots/
+│
+├── conftest.py
+├── pytest.ini
+├── requirements.txt
+├── .gitignore
+└── README.md
